@@ -1,3 +1,5 @@
+// Make new mistakes as fast as you can.
+
 // Finite games are played within boundaries. Infinite games play with boundaries.
 
 // I believe in you. You can do the thing!
