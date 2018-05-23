@@ -1,3 +1,5 @@
+// Our bodies and minds are capable of far more than our psyche will let us achieve.
+
 // You're good enough, you're smart enough, and doggone it, people like you.
 
 // You are the delta in what you do, not the things you did in the past
