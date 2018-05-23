@@ -1,3 +1,5 @@
+// You are the delta in what you do, not the things you did in the past
+
 // Make new mistakes as fast as you can.
 
 // No need to say 'I can do it.' You ARE doing it!
